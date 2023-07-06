@@ -3,3 +3,4 @@ labelImg/
 DrowsinessDetection/data/
 Face Detection/data/
 Face Detection/aug_data/
+Face Detection/logs/
