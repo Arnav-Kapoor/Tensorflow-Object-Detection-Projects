@@ -4,3 +4,7 @@ DrowsinessDetection/data/
 Face Detection/data/
 Face Detection/aug_data/
 Face Detection/logs/
+Face Recognition/data/
+Face Recognition/lfw/
+Face Recognition/training_checkpoints/
+Face Recognition/siameseModel.h5
